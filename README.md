@@ -1,0 +1,2 @@
+# EME-TestProject
+This simple Java project can be used to test the features of the project [JavaCodeEcorification](https://github.com/tsaglam/JavaCodeEcorification). The source code of this project has no other purpose than being used for the Ecorification of Java code. The different packages correspond with the different features of the process
