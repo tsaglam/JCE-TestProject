@@ -3,7 +3,7 @@ package jce.minimal;
 /**
  * This is a class for testing purposes of the Java code ecorification.
  */
-public class Person {
+public class Person { // TODO (HIGH) remove?
     private String firstName;
     private String lastName;
 

@@ -3,7 +3,7 @@ package jce.modifiers;
 /**
  * This is a class for testing purposes of the Ecore metamodel extraction.
  */
-public class ClassALM {
+public class ClassALM { // TODO (HIGH) Ecorify project and check classes from EME-TestProject.
     static int staticAttribute;
     int defaultAttribute;
     @SuppressWarnings("unused")
