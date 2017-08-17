@@ -8,7 +8,6 @@ import java.util.concurrent.Exchanger;
 
 import jce.types.SomeClass;
 import jce.types.SomeInterface;
-import jce.utility.CustomGenericClass;
 
 /**
  * This is a class for testing purposes of the Ecore metamodel extraction.
@@ -28,9 +27,9 @@ public class Fields {
     // private Date[] dateArray;
 
     // with generic arguments:
-    private List<String> someList;
+    // private List<String> someList;
     private Map<Integer, String> someMap;
-    private List<SomeClass> someClassList;
+    // private List<SomeClass> someClassList;
     private Set<Map<Object, List<String>>> bigBadSet;
 
     // external types:
@@ -40,5 +39,5 @@ public class Fields {
     // References
     private SomeClass someClass;
     private SomeInterface someInterface;
-    private CustomGenericClass<String, SomeClass> complexReference;
+    // private CustomGenericClass<String, SomeClass> complexReference;
 }
