@@ -1,7 +1,7 @@
 package jce.modifiers;
 
 /**
- * This is a class for testing purposes of the Ecore metamodel extraction.
+ * This is a class for testing purposes of the Java code ecorification.
  */
 public abstract class AbstractClassALM {
     static int staticAttribute;
