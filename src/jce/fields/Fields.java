@@ -15,6 +15,8 @@ import jce.types.SomeInterface;
 @SuppressWarnings("unused")
 public class Fields {
     // basic:
+    private Class<Object> clazz;
+    private Object object;
     private int number;
     private String text;
     private Integer intObject;
