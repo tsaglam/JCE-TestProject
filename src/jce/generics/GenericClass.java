@@ -1,4 +1,4 @@
-package generics;
+package jce.generics;
 
 import java.util.LinkedList;
 import java.util.List;

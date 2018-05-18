@@ -1,4 +1,4 @@
-package generics;
+package jce.generics;
 
 import java.io.Serializable;
 import java.util.ArrayList;

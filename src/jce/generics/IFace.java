@@ -1,4 +1,4 @@
-package generics;
+package jce.generics;
 
 public interface IFace<T> {
 
